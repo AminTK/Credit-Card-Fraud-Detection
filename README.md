@@ -14,12 +14,12 @@ Using statistical methods and machine learning, transactions that appear abnorma
 
 3. Machine Learning Models
 Machine learning algorithms such as Random Forest, Support Vector Machines (SVM), and Artificial Neural Networks can analyze historical data to detect fraudulent patterns and automatically identify suspicious transactions.
-## In this project, we optimized the dataset, analyzed the data and the relationships between its variables, and ultimately identified the dataset type and the appropriate methods required for it. Using these methods, we trained various models while optimizing them to determine the most efficient model for predicting and detecting fraudulent transactions.
+#### In this project, we optimized the dataset, analyzed the data and the relationships between its variables, and ultimately identified the dataset type and the appropriate methods required for it. Using these methods, we trained various models while optimizing them to determine the most efficient model for predicting and detecting fraudulent transactions.
 
-5. Advanced Authentication Technologies
+4. Advanced Authentication Technologies
 The use of multi-factor authentication (MFA), advanced encryption, and user behavior analysis can help reduce the risk of fraud.
 
-6. Rule-Based Filtering Systems
+5. Rule-Based Filtering Systems
 Many anti-fraud systems incorporate predefined rules to assess transactions. For example, if a transaction exceeds a certain threshold, the system may automatically block it or trigger further verification.
 
 Conclusion
